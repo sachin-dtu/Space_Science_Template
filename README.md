@@ -9,7 +9,7 @@ This website is built using HTML, CSS, and JavaScript. It contains a collection 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 * Fork this repository
-* Create a new branch ('git checkout -b my-new-feature')
+* Create a new branch (`git checkout -b my-new-feature'`)
 * Make your changes
 * Commit your changes ('git commit -am 'Add some feature'')
 * Push to the branch ('git push origin my-new-feature')
