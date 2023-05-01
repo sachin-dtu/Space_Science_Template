@@ -1,6 +1,6 @@
 
 # **Space Science Website**
-This is a website that explores the wonders of space science. You can visit the website by clicking ![here](https://sachin-dtu.github.io/Space_Science_Template/).
+This is a website that explores the wonders of space science. You can visit the website by clicking [here](https://sachin-dtu.github.io/Space_Science_Template/).
 
 ### **About the Website**
 This website is built using HTML, CSS, and JavaScript. It contains a collection of articles, images, and videos about space science, including topics such as planets, stars, galaxies, black holes, and more.
