@@ -11,8 +11,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 * Fork this repository
 * Create a new branch (`git checkout -b my-new-feature'`)
 * Make your changes
-* Commit your changes ('git commit -am 'Add some feature'')
-* Push to the branch ('git push origin my-new-feature')
+* Commit your changes (`git commit -am 'Add some feature'`)
+* Push to the branch (`git push origin my-new-feature`)
 * Create a new Pull Request
 ### **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
